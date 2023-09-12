@@ -96,5 +96,5 @@ body {
 }
 
 .btn-check:hover {
-    background-color: var(--color-green-hover);
+    background-color: var(--color-red);
 }
